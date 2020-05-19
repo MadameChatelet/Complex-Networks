@@ -1,5 +1,6 @@
 # Complex-Networks
 Community detection in Complex Networks through modularity optimisation. (Simulated Annealing)
+With NetworkX (Python library)
 
   1. Download a network from the network repository.
   2. Visualize the network + Summary statistics of the network ( degree distribution, clustering coefficient)
